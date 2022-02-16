@@ -14,4 +14,5 @@ The system to be analysed is shown in Figure 1, representing two power system ar
 The details of the system are as follows:
 
 ![image](https://user-images.githubusercontent.com/73076876/153966750-b86a8eb8-ff8c-4712-8dfc-1684cdf7b26d.png)
+
 The interconnection capacity is 50 MW and therefore T12 = 0.05. Also, δ1 - δ2 = -1.0 rad.

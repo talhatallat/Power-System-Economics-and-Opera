@@ -21,4 +21,4 @@ Compare the field levels for the horizontal and vertical configurations. Prepare
 presentation of your main findings. This presentation will be given to the group.
 
 ## Due Date
-This assignment due on Friday 8 April 2022.
+This assignment due on **Friday 8 April 2022**.
